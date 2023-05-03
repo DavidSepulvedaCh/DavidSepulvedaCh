@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm David Sepúlveda</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h1 align="center">Hi, I'm David Sepúlved👋</h1>
+<h3 align="justify">A passionate frontend developer from Colombia. Knowledge in design and development of web applications, others with knowledge in programming languages such as: Python, Java, JavaScript, PHP.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
