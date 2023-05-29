@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm David Sepúlveda</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
-
+<h1 align="center">Hi 👋, I'm David Sepúlveda</h1
+<h3 align="justify">A passionate frontend developer from Colombia. Knowledge in design and development of web applications, others with knowledge in programming languages such as: Python, Java, JavaScript, PHP.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david leonardo sepulveda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david leonardo sepulveda" height="30" width="40" /></a>
