@@ -20,4 +20,4 @@
   </tr>
 </table>
 
-<img src="https://camo.githubusercontent.com/d6def41c63702279a48e196fcee3bcbb74a53abe81ba67dffdc79953a99b4bcd/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73686f7269776526726f773d31" alt="shorier-trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=DavidSepulvedaCh&amp;row=1" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/d6def41c63702279a48e196fcee3bcbb74a53abe81ba67dffdc79953a99b4bcd/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73686f7269776526726f773d31" alt="" data-canonical-src="https://github-profile-trophy.vercel.app/?username=DavidSepulvedaCh&amp;row=1" style="max-width: 100%;">
