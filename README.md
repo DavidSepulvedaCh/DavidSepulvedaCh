@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidspulvedach&label=Profile%20views&color=0e75b6&style=flat" alt="davidspulvedach" /> </p>
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p>Portfolio: https://davidsepulvedach.github.io/portafolioWeb/ </p>
 <p align="left">
@@ -12,6 +10,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) 
@@ -43,6 +42,4 @@
   </tr>
 </table>
 
-
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidSepulvedaCh&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
