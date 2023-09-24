@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Sepúlveda</h1>
-<h3 align="center">I am a Systems and Informatics Engineer passionate about frontend web development. My goal is to create attractive and functional digital experiences. Welcome to my profile, where you can explore my projects and discover my passion for web creation.</h3>
+<h3 align="justify">I am a Systems and Informatics Engineer passionate about frontend web development. My goal is to create attractive and functional digital experiences. Welcome to my profile, where you can explore my projects and discover my passion for web creation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidspulvedach&label=Profile%20views&color=0e75b6&style=flat" alt="davidspulvedach" /> </p>
 
