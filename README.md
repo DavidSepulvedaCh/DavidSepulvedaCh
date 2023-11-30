@@ -27,7 +27,8 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) 
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DavidSepulvedaCh&column=7&margin-w=15&margin-h=15&theme=darkhub)](https://github.com/DavidSepulvedaCh/github-profile-trophy)
-
+<br>
+![Stats](https://www.codewars.com/users/DavidSepulvedaCh/badges/large)
 <table>
   <tr>
     <td align="center">
