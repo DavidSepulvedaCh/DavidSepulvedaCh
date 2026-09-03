@@ -11,7 +11,7 @@
 <a href="https://davidsepulvedach.github.io/david.dev">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
 </a>
-<a href="[https://linkedin.com/in/david-leonardo-sepúlveda-21303a255/](https://www.linkedin.com/in/david-leonardo-sepúlveda-chávez-21303a255 )" target="_blank">
+<a href="https://www.linkedin.com/in/david-leonardo-sepúlveda-chávez-21303a255" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
